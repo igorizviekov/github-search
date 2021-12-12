@@ -1,7 +1,7 @@
 # Search Github repositories
 
 - search result page has pagination and shows 30 items per page;
-- repos are be sorted by stars;
+- repos are sorted by stars;
 - search request is cancellable;
 - previous search results are be cached;
 
